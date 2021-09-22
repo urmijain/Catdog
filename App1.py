@@ -7,6 +7,7 @@ app = Flask(__name__) #wsgi applicaiton
 def welcome():
     return "Welcome Msdhoni Cool"
 
+
 @app.route("/result/<int:score>")
 def welcome1(score):
     res=""
