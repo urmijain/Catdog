@@ -4,10 +4,12 @@ Here you will learn how to use Automation for the Deployment of a Machine Learni
 Prerequisites:
 
 1)JUPYTER NOTEBOOK - pip install notebook (Python virtual environment(Anaconda) preinstalled) https://jupyter.org/install
+
 2)PYTHON PACKAGES : Commands to install in Jupyter notebook
 	a) TENSORFLOW - pip install tensorflow 
 	b) OPENCV - pip install opencv-python 
 	c) FLASK - pip install flask 
+
 3) PYCHARM - https://www.jetbrains.com/pycharm/download/#section=windows
 
   
@@ -23,7 +25,9 @@ TOOLS & TECHNOLOGIES:
 DOCUMENTATION:
 
 1) [AWS CODEPIPELINE](https://docs.aws.amazon.com/codepipeline/index.html)
+
 2) [JENKINS (ON SERVER AWS EC2)](https://www.jenkins.io/doc/tutorials/tutorial-for-installing-jenkins-on-AWS/)
+
 3) [AWS ELASTIC BEANSTALK]( https://docs.aws.amazon.com/elastic-beanstalk/index.html)
 
 STEPS FOR AUTOMATION:
