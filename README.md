@@ -1,6 +1,6 @@
 Welcome to my Automation model for Face Mask Detection.
 
-Here you will learn how to use Automation for the Deployment of a Machine Learning model.
+Here you will learn how to use Automation for the Deployment of a Machine Learning model using Flask WebFrame Application
 
 Prerequisites:
 
@@ -42,7 +42,7 @@ STEPS FOR AUTOMATION:
 
 3) Log in to your Github account and create a repository.
 
-4) Create an AWS Codepipline with source as Github, build using jenkins ,deploy on AWS Elastic Beanstalk.
+4) Create an AWS Codepipline with source as Github, build using Jenkins ,deploy on AWS Elastic Beanstalk.
 
 
 EXECUTION:
