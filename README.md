@@ -1,4 +1,5 @@
 Welcome to my Automation model for Face Mask Detection.
+
 Here you will learn how to use Automation for the Deployment of a Machine Learning model.
 
 Prerequisites:
